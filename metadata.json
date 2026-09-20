@@ -1,0 +1,6 @@
+{
+  "name": "Modular Workstation 3D CAD Visualizer",
+  "description": "Interactive 3D CAD workstation system featuring a 6ft central electronics bench, 3ft tool storage unit, and 3ft computer workstation built with Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
